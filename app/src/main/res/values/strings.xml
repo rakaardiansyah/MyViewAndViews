@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyViewAndViews</string>
+    <string name="review_pertandingan">La Liga akan bergulir akhir pekan ini. Sebelum itu dua klub Liga Spanyol
+        akan duel dulu di Piala Super Eropa: Real Madrid vs Atletico Madrid. El Real bermain di Piala
+        Super Eropa 2018 sebagai juara bertahan Liga Champions. Sementara itu Los Colchoneros tampil
+        sebagai kampiun Liga Europa musim lalu.</string>
+
+    <string name="tanggal_pertandingan">Diadakan pada Kamis (16/8/2016) dini hari pukul 02.00 WIB</string>
+
+    <string name="tempat_pertandingan">Piala Super Eropa ini dilangsungkan di Lillekula Stadium, yang
+        disebut A. Le Coq Arena terkait sponsor, di Estonia.</string>
+
+    <string name="susunan_pamain" tools:ignore="StringEscaping">Susunan pemain Real Madrid vs Atletico Madrid:
+        Real Madrid: 25-Thibaut Courtois; 2-Dani Carvajal, 4-Sergio Ramos, 5-Raphael Varane, 6-Nacho;
+        8-Toni Kroos, 14-Casemiro, 10-Luka Modric; 11-Gareth Bale (24-Dani Ceballos 46'),
+        9-Karim Benzema (28-Vinicius Jr 87'), 20-Marco Asensio
+        Atletico Madrid: 13-Jan Oblak; 20-Juanfran, 24-Juan Gimenez, 2-Diego Godin, 3-Filipe Luis;
+        6-Koke, 8-Saul Niguez, 14-Rodri Hernandez (9-Nikola Kalinic 85'), 11-Thomas Lemar (10-Angel Correa 60');
+        19-Diego Costa (5-Thomas Partey 69'), 7-Antoine Griezmann</string>
+</resources>
